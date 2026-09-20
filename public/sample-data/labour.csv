@@ -1,0 +1,13 @@
+record_id,worker_name,dob,gender,address,district,occupation,annual_income,worker_scheme_enrolled,identity_ref
+LAB-0001,Ramesh Patel,1980-05-12,M,"12 Shivam Society, Kalol",Gandhinagar,LABOUR,180000,N,
+LAB-0002,Dinesh Solanki,1981-06-05,M,"B-102 Ashray Flats, Chandkheda",Ahmedabad,CONSTRUCTION,200000,Y,SYN-ID-000006
+LAB-0003,Paresh Makwana,1988-11-20,M,"Street 4 Labour Colony, Katargam",Surat,FACTORY,140000,N,SYN-ID-000007
+LAB-0004,Dahyabhai Vankar,1968-06-05,M,Sector 24,Gandhinagar,DAILY_WAGER,90000,Y,SYN-ID-000014
+LAB-0005,Chetan Gohil,1990-04-15,M,Isanpur Char Rasta,Ahmedabad,WORKER,160000,N,SYN-ID-000016
+LAB-0006,Vikram Thakor,1984-10-12,M,Pethapur Village,Gandhinagar,LABOUR,110000,Y,SYN-ID-000020
+LAB-0007,Shankarbhai Rathva,1975-01-05,M,Poj Road,Sabarkantha,AGRICULTURAL_LABOUR,85000,N,SYN-ID-000021
+LAB-0008,Ashokbhai Mistry,1980-05-20,M,Bapunagar,Ahmedabad,CARPENTER,220000,N,SYN-ID-000022
+LAB-0009,Kantilal Dabhi,1976-12-05,M,Visnagar Link Road,Mehsana,CONSTRUCTION,130000,N,
+LAB-0010,Bharat Chavda,1981-06-15,M,Udhna Main Road,Surat,TEXTILE_WORKER,150000,Y,
+LAB-0011,Nitin Prajapati,1982-08-25,M,Waghodia Road,Vadodara,POTTER,240000,N,SYN-ID-000017
+LAB-0012,Haresh Desai,1983-04-14,M,Varachha Main Road,Surat,DIAMOND_POLISHER,260000,N,

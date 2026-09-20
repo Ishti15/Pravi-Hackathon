@@ -1,0 +1,12 @@
+record_id,applicant_name,dob,gender,address,district,annual_income,housing_status,housing_scheme_enrolled,identity_ref
+HSG-0001,Rameshbhai Patel,12/05/1980,M,"12 Shivam Society, Kalol",Gandhinagar,180000,KUTCHA,N,SYN-ID-000001
+HSG-0002,Varshaben Rathod,1986-07-22,F,Ramdevnagar Chali,Ahmedabad,95000,KUTCHA,N,SYN-ID-000008
+HSG-0003,Hasmukh Shah,1976-04-08,M,"18 Mahavir Nagar, Karelibaug",Vadodara,120000,PUCCA,Y,SYN-ID-000010
+HSG-0004,Dahyabhai Vankar,1968-06-05,M,Sector 24,Gandhinagar,90000,KUTCHA,N,SYN-ID-000014
+HSG-0005,Vikram Thakor,1984-10-12,M,Pethapur Village,Gandhinagar,110000,KUTCHA,N,SYN-ID-000020
+HSG-0006,Shankarbhai Rathva,1975-01-05,M,Poj Road,Sabarkantha,85000,NONE,N,SYN-ID-000021
+HSG-0007,Kantilal Dabhi,1976-12-05,M,Visnagar Link Road,Mehsana,130000,KUTCHA,N,
+HSG-0008,Bharat Chavda,1981-06-15,M,Udhna Main Road,Surat,150000,PUCCA,N,
+HSG-0009,Chetan Gohil,1990-04-15,M,Isanpur Char Rasta,Ahmedabad,160000,PUCCA,N,SYN-ID-000016
+HSG-0010,Pravinbhai Chaudhari,1977-11-14,M,Radhanpur Road,Mehsana,140000,PUCCA,N,SYN-ID-000013
+HSG-0011,Suresh Parmar,1983-08-25,M,"44 Maruti Society, Katargam",Surat,210000,PUCCA,N,SYN-ID-000012

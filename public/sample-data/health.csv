@@ -1,0 +1,27 @@
+record_id,name,dob,gender,address,district,mobile,father_or_spouse_name,health_scheme_enrolled,identity_ref
+HLT-0001,Rameshbhai Patel,12/05/1980,M,"12 Shivam Society, Kalol",Gandhinagar,9825012345,Somabhai Patel,N,SYN-ID-000001
+HLT-0002,Meena Patel,03/09/1984,F,"12 Shivam Society, Kalol",Gandhinagar,9825012345,Rameshbhai Patel,N,SYN-ID-000002
+HLT-0003,Rahul Patel,20/02/2011,M,"12 Shivam Society, Kalol",Gandhinagar,9825012345,Rameshbhai Patel,N,SYN-ID-000003
+HLT-0004,Priya Patel,15/07/2014,F,"12 Shivam Society, Kalol",Gandhinagar,9825012345,Rameshbhai Patel,N,SYN-ID-000004
+HLT-0005,Ramesh Patel,02/11/1975,M,7 Gayatri Nagar,Mehsana,9898011223,Kanjibhai Patel,N,
+HLT-0006,Jignesh Vaghela,,M,Plot 14 GIDC Vatva,Ahmedabad,9879055443,Mohanbhai,N,
+HLT-0007,Bharatbhai Joshi,10/10/1982,M,22 Shanti Kutir,Rajkot,9723011234,Ravjibhai Joshi,N,SYN-ID-000005
+HLT-0007,Bharatbhai Joshi,10/10/1982,M,22 Shanti Kutir,Rajkot,9723011234,Ravjibhai Joshi,N,SYN-ID-000005
+HLT-0008,Amit Trivedi,14/01/1992,M,"5 Anand Park, Alkapuri",Vadodara,9824099887,Natwarlal Trivedi,N,
+HLT-0009,Manilal Baranda,15/03/1979,M,Village Khedbrahma,Sabarkantha,9428011234,Jethabhai Baranda,N,SYN-ID-000009
+HLT-0010,Hasmukh Shah,08/04/1976,M,"18 Mahavir Nagar, Karelibaug",Vadodara,9898033445,Kantilal Shah,Y,SYN-ID-000010
+HLT-0011,Suresh Parmar,25/08/1983,M,"44 Maruti Society, Katargam",Surat,9825088776,Danabhai Parmar,Y,SYN-ID-000012
+HLT-0012,Kamlesh Solanki,32/13/1990,M,Unknown Wada,Ahmedabad,9800000000,Popatlal,N,
+HLT-0013,Pravinbhai Chaudhari,1977-11-14,M,Radhanpur Road,Mehsana,9825123456,Ambalal Chaudhari,N,SYN-ID-000013
+HLT-0014,Kokilaben Chaudhari,1981-03-21,F,Radhanpur Road,Mehsana,9825123456,Pravinbhai Chaudhari,N,
+HLT-0015,Dahyabhai Vankar,1968-06-05,M,Sector 24,Gandhinagar,9427012345,Lallubhai Vankar,N,SYN-ID-000014
+HLT-0016,Santokben Vankar,1972-09-18,F,Sector 24,Gandhinagar,9427012345,Dahyabhai Vankar,N,
+HLT-0017,Jayeshbhai Mehta,1985-12-01,M,14 University Road,Rajkot,9724012345,Bhikhabhai Mehta,N,SYN-ID-000015
+HLT-0018,Chetan Gohil,1990-04-15,M,Isanpur Char Rasta,Ahmedabad,9898123456,Manubhai Gohil,N,SYN-ID-000016
+HLT-0019,Nitin Prajapati,1982-08-25,M,Waghodia Road,Vadodara,9824123456,Ranchhodbhai Prajapati,N,SYN-ID-000017
+HLT-0020,Kiranben Desai,1986-02-10,F,Varachha Main Road,Surat,9825234567,Haresh Desai,N,SYN-ID-000018
+HLT-0021,Vijaysinh Jadeja,1979-07-30,M,Kalawad Road,Rajkot,9925012345,Pratapsinh Jadeja,N,SYN-ID-000019
+HLT-0022,Vikram Thakor,1984-10-12,M,Pethapur Village,Gandhinagar,9879123456,Babuji Thakor,N,SYN-ID-000020
+HLT-0023,Shankarbhai Rathva,1975-01-05,M,Poj Road,Sabarkantha,9426012345,Virsinh Rathva,N,SYN-ID-000021
+HLT-0024,Ashokbhai Mistry,1980-05-20,M,Bapunagar,Ahmedabad,9825345678,Govindbhai Mistry,N,SYN-ID-000022
+HLT-0025,Mukesh Pandya,1978-09-12,M,Gotri Road,Vadodara,9824234567,Chandrakant Pandya,N,SYN-ID-000023

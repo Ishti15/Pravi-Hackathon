@@ -1,0 +1,19 @@
+record_id,student_name,dob,gender,father_name,address,district,school,class,scholarship_enrolled,identity_ref
+EDU-0001,Rahul Patel,20/02/2011,M,Rameshbhai Patel,"12 Shivam Society, Kalol",Gandhinagar,Kalol High School,9,N,SYN-ID-000003
+EDU-0002,Priya Patel,15/07/2014,F,Rameshbhai Patel,"12 Shivam Society, Kalol",Gandhinagar,Kalol Primary School,6,Y,SYN-ID-000004
+EDU-0003,Aniket Shah,10/01/2012,M,Hasmukh Shah,"18 Mahavir Nagar, Karelibaug",Vadodara,Navrachana Vidyalaya,8,Y,SYN-ID-000011
+EDU-0004,,10/05/2013,F,Unknown Father,Ellisbridge,Ahmedabad,Model School,7,N,
+EDU-0005,Hardik Chaudhari,2010-08-14,M,Pravinbhai Chaudhari,Radhanpur Road,Mehsana,Mehsana Sarvajanik High School,10,N,SYN-ID-000024
+EDU-0006,Kavita Chaudhari,2013-11-25,F,Pravinbhai Chaudhari,Radhanpur Road,Mehsana,Mehsana Kanya Shala,7,N,SYN-ID-000025
+EDU-0007,Mahesh Vankar,2009-04-12,M,Dahyabhai Vankar,Sector 24,Gandhinagar,Govt High School Gandhinagar,11,Y,SYN-ID-000026
+EDU-0008,Pooja Mehta,2012-06-18,F,Jayeshbhai Mehta,14 University Road,Rajkot,Rajkot Municipal School,8,N,SYN-ID-000027
+EDU-0009,Ketan Gohil,2014-09-02,M,Chetan Gohil,Isanpur Char Rasta,Ahmedabad,Diwan Ballubhai School,6,N,SYN-ID-000028
+EDU-0010,Riddhi Prajapati,2011-12-19,F,Nitin Prajapati,Waghodia Road,Vadodara,Sayaji High School,9,N,SYN-ID-000029
+EDU-0011,Meet Desai,2010-03-30,M,Haresh Desai,Varachha Main Road,Surat,Surat Public School,10,N,SYN-ID-000030
+EDU-0012,Divyaraj Jadeja,2008-07-15,M,Vijaysinh Jadeja,Kalawad Road,Rajkot,Saurashtra High School,12,N,SYN-ID-000031
+EDU-0013,Alpa Thakor,2013-05-08,F,Vikram Thakor,Pethapur Village,Gandhinagar,Pethapur Primary School,7,N,SYN-ID-000032
+EDU-0014,Sunil Rathva,2011-01-22,M,Shankarbhai Rathva,Poj Road,Sabarkantha,Ashram Shala Sabarkantha,9,Y,SYN-ID-000033
+EDU-0015,Bhavik Mistry,2015-10-10,M,Ashokbhai Mistry,Bapunagar,Ahmedabad,Bapunagar Vidyamandir,5,N,SYN-ID-000034
+EDU-0016,Neha Pandya,2012-02-14,F,Mukesh Pandya,Gotri Road,Vadodara,Baroda High School,8,N,SYN-ID-000035
+EDU-0017,Payal Dabhi,2010-09-09,F,Kantilal Dabhi,Visnagar Link Road,Mehsana,Visnagar Kanya Vidyalaya,10,N,SYN-ID-000036
+EDU-0018,Chirag Chavda,2014-04-04,M,Bharat Chavda,Udhna Main Road,Surat,Udhna Academy,6,N,SYN-ID-000037
