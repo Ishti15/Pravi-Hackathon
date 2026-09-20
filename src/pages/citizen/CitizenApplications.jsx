@@ -16,7 +16,7 @@ export default function CitizenApplications() {
 
   async function loadApplications() {
     try {
-      const familyProfile = await familyService.getFamilyByMemberId(session.userId);
+      const familyProfile = await familyService.getFamilyByMemberId(session.personId);
       if (familyProfile) {
         const apps = await applicationService.getApplications({ familyId: familyProfile.family_id });
         setApplications(apps);

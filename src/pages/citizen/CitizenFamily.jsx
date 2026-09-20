@@ -18,9 +18,9 @@ export default function CitizenFamily() {
 
   async function loadFamily() {
     try {
-      const familyProfile = await familyService.getFamilyByMemberId(session.userId);
+      const familyProfile = await familyService.getFamilyByMemberId(session.personId);
       if (familyProfile) {
-        const fullProfile = await familyService.getFamily(familyProfile.family_id);
+        const fullProfile = await familyService.getFamilyById(familyProfile.family_id);
         setFamily(fullProfile);
 
         const [schemes, apps, evals] = await Promise.all([

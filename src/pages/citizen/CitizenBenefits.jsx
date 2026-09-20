@@ -23,7 +23,7 @@ export default function CitizenBenefits() {
 
   async function loadData() {
     try {
-      const familyProfile = await familyService.getFamilyByMemberId(session.userId);
+      const familyProfile = await familyService.getFamilyByMemberId(session.personId);
       if (familyProfile) {
         setFamily(familyProfile);
 

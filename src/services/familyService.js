@@ -291,5 +291,25 @@ export const familyService = {
         departments: Array.from(new Set(linkedRecords.map(r => r.department)))
       };
     });
+  },
+
+  /**
+   * Get family summary by a member's person ID
+   */
+  async getFamilyByMemberId(personId) {
+    if (!personId) return null;
+    let memberRecord = memoryStore.familyMembers.find(m => m.person_id === personId);
+
+    if (!memberRecord && isSupabaseConfigured) {
+      try {
+        const { data } = await supabase.from('family_member').select('*').eq('person_id', personId).single();
+        if (data) memberRecord = data;
+      } catch (err) {
+        // ignore
+      }
+    }
+
+    if (!memberRecord) return null;
+    return memberRecord;
   }
 };
